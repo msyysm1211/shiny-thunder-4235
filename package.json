@@ -23,5 +23,6 @@
     "@types/node": "^20.11.5",
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.33"
-  }
+  },
+  "repository": "git@github.com:msyysm1211/shiny-thunder-4235.git"
 }
